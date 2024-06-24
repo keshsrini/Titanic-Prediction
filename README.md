@@ -51,6 +51,6 @@ Inspiration and guidance from various online resources and data science communit
 Contact
 For any questions or feedback, feel free to reach out:
 
-Your Name
+
 GitHub: https://github.com/keshsrini
 Email:keshavsrinivasm1510@gmail.com
