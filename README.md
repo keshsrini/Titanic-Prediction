@@ -28,7 +28,7 @@ requirements.txt: File listing the Python packages required to run the project.
 Usage
 Clone this repository:
 
-git clone https://github.com/yourusername/titanic-prediction.git
+git clone https://github.com/keshavsrini/titanic-prediction.git
 
 Navigate into the project directory:
 cd titanic-prediction
