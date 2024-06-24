@@ -15,10 +15,8 @@ Scikit-learn
 Matplotlib
 Seaborn
 Jupyter Notebook (for viewing and interacting with the notebooks)
-You can install these packages using pip:
 
-bash
-Copy code
+You can install these packages using pip:
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 les.
 notebooks/: Jupyter notebook(s) with data analysis, model building, and evaluation.
